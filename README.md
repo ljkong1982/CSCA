@@ -9,3 +9,9 @@ This repository is the official implementation for Class-Specific Channel Attent
 # Requirements
 
 All pretrained weights and features for expriments in the paper can be downloaded from the [PT-MAP repository](https://github.com/yhu01/PT-MAP#requirements).
+
+# Training & Testing
+```
+python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_epoch [10/15/20/25]
+
+```
