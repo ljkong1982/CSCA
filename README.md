@@ -17,6 +17,13 @@ Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/C
 ```
 python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_epoch [10/15/20/25]
 ```
+
+# Results
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # Acknowledgment
 [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
 [Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/pdf/1806.05236.pdf)
