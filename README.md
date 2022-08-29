@@ -1,2 +1,2 @@
-# Class-Specific-Channel-Attention
+# CSCA
 Class-Specific Channel Attention
