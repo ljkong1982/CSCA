@@ -19,12 +19,14 @@ python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_e
 ```
 
 # Results
+
 | Dataset  | 5-Way 1-Shot | 5-Way 5-Shot |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | miniImageNet  | Content Cell  | Content Cell  |
 | Tiered-ImageNet  | Content Cell  | Content Cell  |
 | CIFAR-FS  | Content Cell  | Content Cell  |
 | CUB  | Content Cell  | Content Cell  |
+
 # Acknowledgment
 [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
 [Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/pdf/1806.05236.pdf)
