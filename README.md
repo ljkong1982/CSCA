@@ -28,6 +28,7 @@ python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_e
 | CUB  | 97.43%  | 99.09%  |
 
 # Acknowledgment
+[Channel Importance Matters in Few-Shot Image Classification](https://arxiv.org/pdf/2206.08126.pdf)
 [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
 
 [Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/pdf/1806.05236.pdf)
