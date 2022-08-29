@@ -7,6 +7,7 @@ This repository is the official implementation for Class-Specific Channel Attent
 
 
 # Requirements
+Pytorch
 
 All pretrained weights and features for expriments in the paper can be downloaded from the [PT-MAP repository](https://github.com/yhu01/PT-MAP#requirements).
 
@@ -16,3 +17,7 @@ Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/C
 ```
 python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_epoch [10/15/20/25]
 ```
+# Acknowledgment
+[Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
+[Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/pdf/1806.05236.pdf)
+[Leveraging the Feature Distribution in Transfer-based Few-Shot Learning](https://arxiv.org/pdf/2006.03806.pdf)
