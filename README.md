@@ -7,7 +7,7 @@ This repository is the official implementation for Class-Specific Channel Attent
 
 
 # Requirements
-Pytorch
+Pytorch 1.8.0 is used for the results in the paper.
 
 All pretrained weights and features for expriments in the paper can be downloaded from the [PT-MAP repository](https://github.com/yhu01/PT-MAP#requirements).
 
