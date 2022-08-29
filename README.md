@@ -22,10 +22,10 @@ python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_e
 
 | Dataset  | 5-Way 1-Shot | 5-Way 5-Shot |
 | ------------- | ------------- | ------------- |
-| miniImageNet  | Content Cell  | Content Cell  |
-| Tiered-ImageNet  | Content Cell  | Content Cell  |
-| CIFAR-FS  | Content Cell  | Content Cell  |
-| CUB  | Content Cell  | Content Cell  |
+| miniImageNet  | 96.68% | 99.96%  |
+| Tiered-ImageNet  | 96.58%  | 99.37%  |
+| CIFAR-FS  | 98.85%  | 99.82%  |
+| CUB  | 97.43%  | 99.09%  |
 
 # Acknowledgment
 [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
