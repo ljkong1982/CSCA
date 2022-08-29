@@ -19,7 +19,6 @@ python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB] --meta_trai
 ```
 
 # Results
-In-domain
 
 | Dataset  | 5-Way 1-Shot | 5-Way 5-Shot |
 | ------------- | ------------- | ------------- |
