@@ -11,7 +11,7 @@ Pytorch 1.8.0 is used for the results in the paper.
 
 All pretrained weights and features for expriments in the paper can be downloaded from the [PT-MAP repository](https://github.com/yhu01/PT-MAP#requirements).
 
-Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/CIFAR/CUB]", and put the plk file in the corresponding directory.
+Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB]", and put the plk file in the corresponding directory.
 
 # Training & Testing
 ```
