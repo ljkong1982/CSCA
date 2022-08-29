@@ -17,7 +17,6 @@ Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/C
 ```
 python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB] --meta_train_epoch [10/15/20/25]
 ```
-
 # Results
 
 | Dataset  | 5-Way 1-Shot | 5-Way 5-Shot |
