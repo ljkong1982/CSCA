@@ -29,5 +29,7 @@ python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR/CUB] --meta_train_e
 
 # Acknowledgment
 [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://arxiv.org/pdf/1907.12087v3.pdf)
+
 [Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/pdf/1806.05236.pdf)
+
 [Leveraging the Feature Distribution in Transfer-based Few-Shot Learning](https://arxiv.org/pdf/2006.03806.pdf)
