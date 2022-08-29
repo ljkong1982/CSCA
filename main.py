@@ -16,7 +16,7 @@ from statistics import mean, stdev
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='miniImagenet', help='CUB/miniImagenet/tiered_imagenet/cifar')
+    parser.add_argument('--dataset', type=str, default='miniImagenet', help='miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB')
     parser.add_argument('--Epoch', type=int, default=10000, help='number of test iterations')
     parser.add_argument('--batch_size', type=int, default=256)
     parser.add_argument('--way', type=int, default=5)
