@@ -1,12 +1,9 @@
 import os
 import torch
 import numpy as np
-import cv2
-import math
 import torchvision.transforms as transforms
 import torchvision.models as models
 import torch.nn as nn
-from torch.utils.data import DataLoader, Dataset
 import random
 import pickle
 
@@ -20,7 +17,6 @@ def _load_pickle(file):
         dataset['data'] = torch.FloatTensor(np.stack(data, axis=0))
         dataset['labels'] = torch.LongTensor(np.concatenate(labels))
         return dataset
-
 
 def GenerateRun(way = 5, shot = 5, query = 15, n_iteration = 0, img_dir = ''):
     np.random.seed(n_iteration)
