@@ -11,27 +11,4 @@ class channel_attention(nn.Module):
     def forward(self, x):
         x = self.c_a(x)
         return x
-
-    
-if __name__ == "__main__":  
-    model = channel_attention(channel_sz = 10)
-    
-    input = torch.ones([5, 5, 10])
-    print(input.shape)
-    input = input.reshape(1, 25,-1).unsqueeze(0)#torch.Size([1, 1, 25, 2048])
-    print(input.shape)
-    input = input.permute(2,3,1,0)
-    print(input.shape)
-    
-    
-    
-    output = model(input)
-    print(output.shape)
-    
-    
-    
-    
-    for name, param in model.named_parameters():
-        if param.requires_grad:
-            print(name, param.data)
     
