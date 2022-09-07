@@ -33,13 +33,21 @@ Work in progress...
 | CUB  | 97.43%  | 99.09%  |
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-mini-2)](https://paperswithcode.com/sota/few-shot-image-classification-on-mini-2?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-mini-3)](https://paperswithcode.com/sota/few-shot-image-classification-on-mini-3?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-tiered)](https://paperswithcode.com/sota/few-shot-image-classification-on-tiered?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-tiered-1)](https://paperswithcode.com/sota/few-shot-image-classification-on-tiered-1?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-cifar-fs-5)](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-cifar-fs-5-1)](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5-1?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-cub-200-5-1)](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5-1?p=class-specific-channel-attention-for-few-shot)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-cub-200-5)](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5?p=class-specific-channel-attention-for-few-shot)
+
 # Acknowledgment
 [Channel Importance Matters in Few-Shot Image Classification](https://arxiv.org/pdf/2206.08126.pdf)
 
