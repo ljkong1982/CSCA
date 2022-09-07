@@ -32,6 +32,9 @@ Work in progress...
 | CIFAR-FS  | 98.85%  | 99.82%  |
 | CUB  | 97.43%  | 99.09%  |
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/class-specific-channel-attention-for-few-shot/few-shot-image-classification-on-cifar-fs-5)](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5?p=class-specific-channel-attention-for-few-shot)
+
+
 # Acknowledgment
 [Channel Importance Matters in Few-Shot Image Classification](https://arxiv.org/pdf/2206.08126.pdf)
 
