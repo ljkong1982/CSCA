@@ -15,12 +15,12 @@ Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/C
 
 # Training & Testing
 
-5-shot
+5-way 5-shot
 ```
 python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB] --meta_train_epoch [10/15/20/25]
 ```
 
-1-shot
+5-way 1-shot
 
 Work in progress...
 # Results
