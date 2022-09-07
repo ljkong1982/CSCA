@@ -14,9 +14,15 @@ All pretrained weights and extracted features for 5-way 5-shot expriments in the
 Create directories "./pretrained_models_features/[miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB]", and place the plk file in the corresponding directory.
 
 # Training & Testing
+
+5-shot
 ```
 python main.py --dataset [miniImagenet/Tiered_ImageNet/CIFAR_FS/CUB] --meta_train_epoch [10/15/20/25]
 ```
+
+1-shot
+
+Work in progress...
 # Results
 
 | Dataset  | 5-Way 1-Shot | 5-Way 5-Shot |
