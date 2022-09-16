@@ -102,11 +102,10 @@ if __name__ == "__main__":
         mtest_data = mtest_data.cuda()
         
         correct = 0
-        
         sim_matrix = [[] for _ in range(opt.way)]
+        
         with torch.no_grad():
             for i in range(opt.way):
-                
                 for j in range(opt.way):
                     output = model[i](mtest_data).squeeze(-1).squeeze(-1)
                     sim_matrix[j] = cos(output[i * opt.query:(i+1) * opt.query],prototypes[j]).cpu().data.numpy()
